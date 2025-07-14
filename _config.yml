@@ -35,13 +35,13 @@ repository               : "shami09/shami09.github.io"
 author:
   # Biographic information
   avatar           : "shamika_likhite.jpeg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Shamika Likhite"
+  pronouns         : "she/her"  
+  bio              : "Machine Learning & Data Engineer"
+  location         : "Chicago, IL"
+  employer         : "Speechace, LLC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shamilikhite@gmail.com" 
 
   # Academic websites
   academia         : # URL
