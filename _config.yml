@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 # Tell GitHub Pages to layer on the Academic Pages remote theme
-remote_theme: academicpages/academicpages
+remote_theme: academicpages/academicpages.github.io
 
 # Make sure the remote-theme plugin is enabled
 plugins:
