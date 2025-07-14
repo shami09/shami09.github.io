@@ -34,7 +34,7 @@ repository               : "shami09/shami09.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shamika_likhite.jpeg"
+  avatar           : "ShamikaLikhite.jpeg"
   name             : "Shamika Likhite"
   pronouns         : "she/her"  
   bio              : "Machine Learning & Data Engineer"
