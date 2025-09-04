@@ -14,11 +14,9 @@ main:
       
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio/  
 
-  
-
-- title: "CV"
+  - title: "CV"
     url: "https://drive.google.com/file/d/1Ptx813WzwJYpbqIYMgHbk50EPWyqa8Y5/view?usp=sharing"
   
   # - title: "CV"
