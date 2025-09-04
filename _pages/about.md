@@ -27,5 +27,18 @@ To learn more, please take a look at my [CV](https://drive.google.com/file/d/1he
 
 - **Sept 2025**: I am currently looking for a new role in the industry.  
 
+---
+
+## 🎓 Education
+  
+- **M.S. in Computer Engineering**, Northwestern University *(Sep 2022 – Dec 2023)*  
+- **B.S. in Electrical Engineering**, Visvesvaraya National Institute of Technology *(July 2018 – May 2022)*  
 
 ---
+
+## 👨🏻‍💻 Work Experience
+
+- **Software Engineer, Machine Learning**, Speechace LLC *(Sept 2024 – Present)*
+- **Research Engineer**, Northwestern University *(Jun 2023 – Sept 2024)*  
+- **Machine Learning Engineer Intern**, Merkle Inc *(May 2021 – Aug 2021)*  
+
