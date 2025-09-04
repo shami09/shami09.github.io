@@ -33,6 +33,7 @@ To learn more, please take a look at my [CV](https://drive.google.com/file/d/1he
 - **Sept 2024**: Started working at Speechace.
 - **Aug 2024**: Released a new Pypi package [Video Audio recorder](https://pypi.org/project/video-audio-recorder/) for Multimodal dataset creation on edge devices.
 - **June 2024**: Our paper [Missingness-resilient video-enhanced multimodal disfluency detection](https://arxiv.org/abs/2406.06964) is accepted at Interspeech 2024.
+
 ---
 
 ## 🎓 Education
