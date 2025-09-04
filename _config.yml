@@ -89,6 +89,16 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+# Navigation links
+nav:
+  - name: "About"
+    url: /about/
+  - name: "Publications"
+    url: /publications/
+  - name: "Portfolio"
+    url: /portfolio/
+  - name: "CV"
+    url: "https://drive.google.com/file/d/1Ptx813WzwJYpbqIYMgHbk50EPWyqa8Y5/view?usp=sharing"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
