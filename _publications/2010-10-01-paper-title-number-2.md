@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Physics-Informed Image Restoration via Progressive PDE Integration"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
