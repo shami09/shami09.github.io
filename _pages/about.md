@@ -23,12 +23,12 @@ I hold a **Master’s degree in Computer Engineering** from [Northwestern Univer
 
 Here is my current work at Speechace that focuses on [Writing Assessment](https://www.speechace.com/automatic-scoring-of-written-language-skills-2/)
 
-To learn more, please take a look at my [CV](https://drive.google.com/file/d/1heK3YGOqd4zby2uYcWDzNx9mhjmR5_8B/view?usp=sharing)
+To learn more, please take a look at my [CV](https://drive.google.com/file/d/10Gl-7u_r3nYR-G2MErLwbgLgoO_NZ87t/view?usp=sharing)
 
 ---
 
 ## 🗞️ News
-
+- **Nov 2025**: Published a new paper on [Physics-Informed Image Restoration via Progressive PDE Integration](https://arxiv.org/abs/2511.06244) for image restoration.  
 - **Sept 2025**: I am currently looking for a new role in the industry.  
 - **Sept 2024**: Started working at Speechace.
 - **Aug 2024**: Released a new Pypi package [Video Audio recorder](https://pypi.org/project/video-audio-recorder/) for Multimodal dataset creation on edge devices.
