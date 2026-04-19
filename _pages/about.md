@@ -11,7 +11,7 @@ I am an AI researcher focused on **multimodal learning for NLP**, with a particu
  
 Most recently, I was at **SpeechAce**, where I led the development of the company's AI-powered Writing Assessment Platform. My work spanned ML engineering and data engineering, including designing NLP pipelines for text analysis and building models that perform reliably in resource-constrained, production environments. The platform is deployed across 20+ countries, serving clients like Pearson.
  
-My broader research interest lies in **long-context multimodal LLM reasoning** — developing methods that allow large language models to effectively integrate and reason across speech, text, and video over extended contexts, with an emphasis on robustness, interpretability, and efficiency.
+My broader research interest lies in **long-context multimodal LLM reasoning**, developing methods that allow large language models to effectively integrate and reason across speech, text, and video over extended contexts, with an emphasis on robustness, interpretability, and efficiency.
  
 Before SpeechAce, I was a Research Assistant at **Northwestern University**, where I developed a multimodal model for speech disfluency detection at the [Ideas Lab](http://zhulab.ece.northwestern.edu/), focusing on robustness to missing modalities. I also contributed to video super-resolution research at the [Image and Video Processing Lab (IVPL)](https://sites.northwestern.edu/ivpl/). I hold a **Master's degree in Computer Engineering** from Northwestern.
  
