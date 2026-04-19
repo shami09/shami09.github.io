@@ -17,7 +17,7 @@ Before SpeechAce, I was a Research Assistant at **Northwestern University**, whe
  
 📧 shamikalikhite2024 [at] u [dot] northwestern [dot] edu
 
-Here is my current work at Speechace that focuses on [Writing Assessment](https://www.speechace.com/automatic-scoring-of-written-language-skills-2/)
+Here is my work at Speechace that focuses on [Writing Assessment](https://www.speechace.com/automatic-scoring-of-written-language-skills-2/)
 
 To learn more, please take a look at my [CV](https://drive.google.com/file/d/10Gl-7u_r3nYR-G2MErLwbgLgoO_NZ87t/view?usp=sharing)
 
