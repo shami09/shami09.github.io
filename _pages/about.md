@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am an AI researcher focused on **multimodal learning for NLP**, with a particular interest in building systems that integrate speech, text, and video to improve robustness and real-world applicability of natural language understanding.
+I am an incoming **CS PhD student at the University of Pittsburgh**, with research interests in multimodal learning for NLP. I focus on developing robust language systems that combine speech, text, and video to improve natural language understanding in real-world settings.
  
 Most recently, I was at **SpeechAce**, where I led the development of the company's AI-powered Writing Assessment Platform. My work spanned ML engineering and data engineering, including designing NLP pipelines for text analysis and building models that perform reliably in resource-constrained, production environments. The platform is deployed across 20+ countries, serving clients like Pearson.
  
