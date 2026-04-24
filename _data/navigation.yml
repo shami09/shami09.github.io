@@ -10,11 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-      
-    
+       
   - title: "Portfolio"
-    url: /portfolio/  
+    url: /portfolio/
+    
+  - title: "Beyond Academics"
+    url: /beyond-academics/
 
   - title: "CV"
     url: "https://drive.google.com/file/d/1iFaBvOoeD1WuLKD3Jz8LVV2l4nVGUADd/view?usp=sharing"
