@@ -5,25 +5,27 @@ permalink: /beyond-academics/
 author_profile: true
 ---
 
-Outside of research and engineering, here's what keeps me going.
+Outside of research and engineering, a few things keep me grounded.
 
 ---
 
-## 🎾 Tennis
+## Squash
 
-I've played tennis for years — it's one of the few things that genuinely clears my head. There's something satisfying about the mix of strategy and instinct required, not unlike debugging a model.
+I enjoy playing squash in the evenings. It is a good way to reset after a day of research and coding.
 
 ---
 
-## 🧩 Jigsaw Puzzles
+## 🧩 Jigsaw Puzzles and Lego
 
-I routinely spend entire nights on jigsaw puzzles. The bigger and more chaotic, the better. 1000+ pieces is where it gets interesting.
+I enjoy working on large jigsaw puzzles and Lego sets. The bigger and more intricate, the better. For me, the appeal is in gradually turning many small pieces into something coherent and complete.
 
 ---
 
 ## 🍳 KitchenCompanion
 
-A voice agent I built for fun using LiveKit and RAG over cookbook PDFs. You can ask it questions mid-cook and it navigates recipes hands-free. It started as a weekend project and turned into a deep dive into real-time audio pipelines and grounding LLMs on structured documents.
+KitchenCompanion is a voice-based cooking assistant I built as a side project using LiveKit and retrieval-augmented generation over cookbook PDFs. It lets users ask recipe-related questions hands-free while cooking.
+
+The project started as a weekend experiment and became a deeper exploration of real-time audio pipelines, voice interaction, and grounding language models in structured documents.
 
 [GitHub →](https://github.com/shami09)
 
@@ -31,4 +33,4 @@ A voice agent I built for fun using LiveKit and RAG over cookbook PDFs. You can 
 
 ## 🌍 Why I Build What I Build
 
-A lot of my work ends up being about language — how people speak, how they write, how they're assessed. That's not accidental. I'm drawn to problems where AI can reduce friction for people who've historically been at a disadvantage: non-native speakers, under-resourced learners, communities that existing tools weren't designed for. My mother is a lawyer, which early on showed me how access to the right tools (or lack thereof) shapes outcomes in high-stakes situations. That stayed with me.
+Much of my work centers on language: how people speak, write, learn, and receive feedback. That focus is not accidental. I am drawn to problems where AI can reduce friction for people who are often underserved by existing tools, including non-native speakers, under-resourced learners, and communities whose needs are not fully reflected in standard language technologies.
