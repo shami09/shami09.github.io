@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming **CS PhD student at the University of Pittsburgh**, with research interests in multimodal learning for NLP. I focus on developing robust language systems that combine speech, text, and video to improve natural language understanding in real-world settings.
+I am a first year **CS PhD student at the University of Pittsburgh**, with research interests in multimodal learning for NLP. I focus on developing robust language systems that combine speech, text, and video to improve natural language understanding in real-world settings. I am currently advised by Prof. Diane Litman and I am a part of the [PETAL Lab](https://petal-cs-pitt.github.io/post/)
  
 Most recently, I was at **SpeechAce**, where I led the development of the company's AI-powered Writing Assessment Platform. My work spanned ML engineering and data engineering, including designing NLP pipelines for text analysis and building models that perform reliably in resource-constrained, production environments. The platform is deployed across 20+ countries, serving clients like Pearson.
  
